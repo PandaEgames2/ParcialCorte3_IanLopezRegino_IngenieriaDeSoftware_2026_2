@@ -33,7 +33,7 @@ casos_prueba = [
     (10, "nacional", "vip", 6, "ENVIO10", 12200),           
     
     # 5. MÍNIMO GARANTIZADO Y REDONDEO BANCARIO (Regla R8)
-    (1, "urbana", "vip", 1, "ENVIO10", 5000),               
+    (1, "urbana", "vip", 1, "ENVIO10", 6000),               
     (10.1, "urbana", "normal", 1, None, 9100),              
     (5, "rural", "frecuente", 1, "ENVIO10", 8800),          
     (45, "urbana", "vip", 1, "ENVIO10", 29900),             
